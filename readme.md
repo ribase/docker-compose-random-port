@@ -12,3 +12,14 @@ In this repo you will find a script that determine the next port starting at `:8
 
 ### Usage
 
+Clone this project and `cd` into it.
+
+After just type `./start-local-server` and hit enter.
+
+### Credits
+
+Sebastian Thadewald
+
+### License
+
+See Licensefile
