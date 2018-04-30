@@ -16,6 +16,20 @@ Clone this project and `cd` into it.
 
 After just type `./start-local-server` and hit enter.
 
+It will start to search from port 80 up to the next free port.
+
+#### Be more advanced
+
+If you think - bahh i dont like port 80, port is to default - thats no problem at all.
+
+As you can see above its possible to pass custom ports as well.
+
+```
+./start-local-server 8080 33069
+```
+
+The first port is the port for http applications and the other one is for mysql or other applications, but in this example mysql is a good value.
+
 ### Credits
 
 Sebastian Thadewald
